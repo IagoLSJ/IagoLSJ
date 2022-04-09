@@ -1,5 +1,5 @@
 <h1 align="center">Olá! 👋, Eu sou o <a href="https://www.linkedin.com/in/iago-lima-81884417b/"><i>José Iago</i></a> 🕹️</h1>
-<p align="center">🔭Estou trabalhando com back-and e Node</a><br><br>
+<p align="center">🔭Estou trabalhando com back-end e Node</a><br><br>
 <img align="center" height="150" style="border-radius:50px;"           
        src="/assets/gifzao.gif">
        
@@ -21,12 +21,13 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
   
    ##
   
  <div align="center"> 
-
+   <a href="https://www.linkedin.com/in/iago-lima-81884417b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>    
   <a href = "mailto:joseiagolima@alu.ufc.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/iagolsj/iagolsj/blob/output/github-contribution-grid-snake.svg)
