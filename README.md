@@ -1,7 +1,5 @@
 <h1 align="center">Olá! 👋, Eu sou o <a href="https://www.linkedin.com/in/iago-lima-81884417b/"><i>José Iago</i></a> 🕹️</h1>
-<p align="center">🔭Estou trabalhando com back-end e Node</a><br><br>
-<img align="center" height="150" style="border-radius:50px;"           
-       src="/assets/gifzao.gif">
+<p align="center">🔭Estou trabalhando com back-end</a><br><br>
        
 <div align="center">
        <a href="https://github.com/iagolsj"> </a>
